@@ -23,7 +23,7 @@ I am a full-stack software engineer and writer. I love programming, reading, wri
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DhalavaiN&icon=5&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=DhalavaiN&icon=0&color=0)](https://visitcount.itsvg.in)
 | Project | Description | Built with |
 | ------- | ----------- | ---------- |
 |[OD Manger for Colleges](https://www.linkedin.com/feed/update/urn:li:activity:7051086878577475584/)|This application is developed using Python Flask and OpenCV image processing. It aims to help college HODs (Heads of Departments) and students reduce their waiting time for OD (Official Duty) letters outside the room.The application leverages the power of Flask, a Python web framework, to handle HTTP requests and responses. OpenCV, a popular computer vision library, is used for image processing tasks such as image recognition and manipulation.The application provides a user-friendly interface for college HODs and students to submit and process OD letters digitally, eliminating the need for physical paperwork and reducing waiting time. With its efficient image processing capabilities, the application ensures quick and accurate processing of OD letter requests.|Computer Vision · MongoDB · Flask · Project Management · Web Development|
